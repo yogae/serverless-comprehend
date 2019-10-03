@@ -17,6 +17,7 @@
 ## 사용할 aws service
 
 - Amazon Comprehend
+- Amazon Translate
 - AWS Lambda
 - AWS Step Functions
 - AWS CloudFormation
