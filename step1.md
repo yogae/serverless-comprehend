@@ -1,17 +1,17 @@
-# crawler
+# aws
 
-## twitter 구성
+- [aws-cli 설정](./etc/aws-cli.md)
+- [aws 설명](./etc/aws-service.md)
 
-### auth
+# docker
 
-- [GitHub - BoyCook/TwitterJSClient: Twitter client written in JavaScript packaged as a node module](https://github.com/BoyCook/TwitterJSClient)
+- [docker 설명](./etc/docker.md)
 
-### webhook
+# serverless
 
-- [Getting started with webhooks — Twitter      Developers](https://developer.twitter.com/en/docs/accounts-and-users/subscribe-account-activity/guides/getting-started-with-webhooks)
-
-## serverless
-
+- [serverless 설명](./etc/serverless.md)
+- [aws s3 trigger with serverless](https://github.com/serverless/examples/tree/master/aws-node-upload-to-s3-and-postprocess)
+- [aws sdk](https://aws.amazon.com/ko/sdk-for-node-js/)
 
 # Reference
 

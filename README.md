@@ -1,6 +1,6 @@
 # serverless-comprehend
 
-![outline](images/outline.jpg)
+![outline](./etc/images/outline.jpg)
 
 ## 환경 구성
 
@@ -9,20 +9,10 @@
 
 ## 구성
 
-- [ ] [step1](./step1.md) serverless framework, crawler lambda 구성
+- [ ] [step1](./step1.md) aws, serverless framework
 - [ ] step2 step functions, translator lambda 구성
 - [ ] step3 dynamodb 구성
 - [ ] step4 api gateway, api lambda 구성
-
-## 사용할 aws service
-
-- Amazon Comprehend
-- Amazon Translate
-- AWS Lambda
-- AWS Step Functions
-- AWS CloudFormation
-- Amazon API Gateway
-- Amazon CloudWatch
 
 ## Reference
 
