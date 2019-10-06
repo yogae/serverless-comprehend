@@ -67,10 +67,10 @@
     - dead queue
     - message 소비자 종류
         - ecs
-            - 주기적으로 소비하는 방식
+            - polling 방식
         - lambda 
             - 자동으로 message가 쌓이면 trigger되는 방식
-            - 주기적으로 소비하는 방식
+            - polling 방식
 * IAM
     - group
     - user
