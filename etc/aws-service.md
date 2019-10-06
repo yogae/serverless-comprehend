@@ -50,7 +50,9 @@
     - 인터넷에 연결되어야 하는 리소스에는 퍼블릭 서브넷을 사용하고, 인터넷에 연결되지 않는 리소스에는 프라이빗 서브넷을 사용하십시오.
 
 > [internet gateway](./images/internet-gateway.png)
+
 > [security group](./images/security-diagram.png)
+
 > [public&private subnet](./images/nat-gateway-diagram.png)
 
 # 사용할 aws service
