@@ -130,3 +130,4 @@ docker-compose down # Stops containers and removes containers, networks, volumes
 
 - [가장 빨리 만나는 Docker](http://pyrasis.com/docker.html)
 - [docker-compsoe](https://docs.docker.com/compose/)
+- [효율적인 도커 이미지 만들기](https://bcho.tistory.com/1356)
