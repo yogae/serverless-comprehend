@@ -8,16 +8,21 @@
 
 ```bash
 # 새로운 serverless service 생성
-sls create --template aws-java-maven
+serverless create --template aws-java-maven
+serverless create --template aws-java-gradle
 
 # 배포
-sls deploy
+serverless deploy
 
 # 제거
-sls remove
+serverless remove
 ```
 
-# 추가 자료
+## serverless(java gradle)
+
+- [실습](https://github.com/yogae/java8-serverless-s3-event-trigger)
+
+## 추가 자료
 
 - [serverless example](https://github.com/serverless/examples)
 - [AWS Lambda Cold Start Language Comparisons](https://levelup.gitconnected.com/aws-lambda-cold-start-language-comparisons-2019-edition-%EF%B8%8F-1946d32a0244)
