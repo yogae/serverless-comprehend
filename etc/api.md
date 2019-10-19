@@ -6,7 +6,7 @@ google map에서 내 위치를 받아오려면 google map 서버에 내 위치�
 
 tensorflow에도 api를 구성하여 개발자들이 tensorflow를 사용할 수 있도록 구성되어 있습니다. tensorflow를 사용하기 위해서는 python이나 다른 언어에 library를 import하여 사용합니다. tensorflow api를 확인해보시면 언어별로 tensorflow library를 어떻게 사용해야하는지 설명하고 있습니다.[[참고 - tensorflow api](https://www.tensorflow.org/api_docs)]
 
-twitter api와 tensorflow api가 다른 것은 tensorflow는 python에서 사용하는 library이고 twitter api는 http request로 호출할 수 있는 api 서버입니다.[[참고 - twitter api](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)]
+twitter api와 tensorflow api가 다른 것은 tensorflow는 python에서 사용하는 library이고 twitter api는 http로 호출할 수 있는 api 서버입니다.[[참고 - twitter api](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)]
 
 google map api는 javascript로 구현된 library로 구현되어 있습니다.[[참고 - google map api](https://developers.google.com/maps/documentation/javascript/tutorial?hl=ko)] javascript library 내부에 google map api server 호출 하도록 구성되어 있어서 endpoint를 확인할 수 없는 것 같습니다.
 
