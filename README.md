@@ -11,7 +11,7 @@
 
 - [ ] [step1](./step1.md) aws, serverless framework
 - [ ] [step2](./step2.md) SQS, ECS
-- [ ] step3 comprehend, dynamodb
+- [ ] [step3](./step3.md) comprehend, dynamodb
 - [ ] step4 api gateway, api lambda 구성
 
 ## Reference

@@ -41,4 +41,3 @@ docker tag <ECR repository 이름>:<TAG> <ECR repository URI>:<TAG>
 # 4. 다음 명령을 실행하여 이 이미지를 새로 생성한 AWS 리포지토리로 푸시합니다.
 docker push <ECR repository URI>:<TAG>
 ```
-
