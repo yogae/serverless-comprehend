@@ -56,7 +56,7 @@ docker exec hello echo "Hello World"
 
 ## Dockerfile
 
-```
+```docker
 FROM ubuntu:14.04
 MAINTAINER Foo Bar <foo@bar.com>
 
@@ -74,6 +74,7 @@ CMD ["nginx"]
 EXPOSE 80
 EXPOSE 443
 ```
+
 - FROM: 어떤 이미지를 기반으로 할지 설정합니다. Docker 이미지는 기존에 만들어진 이미지를 기반으로 생성합니다. <이미지 이름>:<태그> 형식으로 설정합니다.
 - MAINTAINER: 메인테이너 정보입니다.
 - RUN: 셸 스크립트 혹은 명령을 실행합니다.
